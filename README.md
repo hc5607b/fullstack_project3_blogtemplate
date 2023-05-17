@@ -6,7 +6,7 @@ This is basic blog template with next.js.
 
 At the moment theres two default posts.
 
-Link to render app:
+Link to render app: https://blog-teqk.onrender.com/
 
 
 THIS IS SCHOOL PROJECT
